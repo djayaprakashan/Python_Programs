@@ -27,6 +27,8 @@ i = 0
 for i in range(n2):
     arr3.append(arr2[i])
 
+#printing the new array
 print("Array 3:", arr3)
+
 
 
