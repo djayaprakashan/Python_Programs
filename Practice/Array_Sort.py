@@ -1,3 +1,5 @@
+#Its a program to sort numbers in a array
+
 numArr1 = [9, 5, 7, 3, 12, 18]
 numArr2 = []
 print(numArr1)
